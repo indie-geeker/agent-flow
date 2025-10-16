@@ -1,0 +1,11 @@
+{
+"name": "flutter-expert",
+"description": "Flutter development expert",
+"version": "1.0.0",
+"author": {
+"name": "Indie Geeker"
+},
+"agents": [
+  "./agents/flutter-expert.md"
+]
+}

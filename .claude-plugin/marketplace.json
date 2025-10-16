@@ -1,0 +1,23 @@
+{
+"name": "agent-flow",
+"owner": {
+"name": "Indie Geeker"
+},
+"plugins": [
+{
+  "name": "code-review",
+  "source": "./code-review",
+  "description": "Code quality review plugin"
+},
+{
+  "name": "content-marketing",
+  "source": "./content-marketing",
+  "description": "Content marketing plugin"
+},
+{
+  "name": "dev-cross-platform",
+  "source": "./dev-cross-platform",
+  "description": "Cross-Platfrom development plugin"
+}
+]
+}

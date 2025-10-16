@@ -1,0 +1,11 @@
+{
+"name": "content-marketing",
+"description": "Content marketing and data analysis",
+"version": "1.0.0",
+"author": {
+"name": "Indie Geeker"
+},
+"agents": [
+  "./agents/content-writer.md"
+]
+}
