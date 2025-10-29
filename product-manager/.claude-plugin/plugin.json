@@ -1,0 +1,11 @@
+{
+"name": "product-manager",
+"description": "Analyzes product ideas, validates markets, creates actionable strategies, and guides product decisions with practical frameworks.",
+"version": "1.0.0",
+"author": {
+"name": "Indie Geeker"
+},
+"agents": [
+  "./agents/product-manager.md"
+]
+}

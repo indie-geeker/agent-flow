@@ -18,6 +18,16 @@
   "name": "dev-cross-platform",
   "source": "./dev-cross-platform",
   "description": "Cross-Platfrom development plugin"
+},
+{
+  "name": "ui-designer",
+  "source": "./ui-designer",
+  "description": "UI、UX Designer plugin"
+},
+{
+  "name": "product-manager",
+  "source": "./product-manager",
+  "description": "Product manager for indie dev plugin."
 }
 ]
 }

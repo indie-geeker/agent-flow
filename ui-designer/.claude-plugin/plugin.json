@@ -1,0 +1,11 @@
+{
+"name": "ui-designer",
+"description": "UI、UX Designer",
+"version": "1.0.0",
+"author": {
+"name": "Indie Geeker"
+},
+"agents": [
+  "./agents/ui-designer.md"
+]
+}
